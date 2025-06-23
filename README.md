@@ -8,6 +8,11 @@ This project fine-tunes a pre-trained BERT model to perform **Aspect-Based Senti
 
 Aspect-Based Sentiment Analysis (ABSA) is a fine-grained form of sentiment analysis in Natural Language Processing (NLP). Instead of analyzing the sentiment of the entire sentence or document, ABSA identifies specific aspects or features mentioned in the text and determines the sentiment toward each aspect individually.
 
+## Related Blog Post
+
+I wrote a detailed Medium blog about this project:  
+ [Read it here](https://medium.com/@ashok.1055/fine-tuning-bert-for-aspect-based-sentiment-analysis-absa-using-tensorflow-0875e1e5c839)
+
 
 ## Key Features
 
